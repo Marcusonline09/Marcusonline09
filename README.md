@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on Java project on school record entry
 - 📫 How to reach me tarun09.gcet@gmail.com
-- 😄 Pronouns: a keen learner
+- 😄 Pronouns: a keen learner , deligent person
 - ⚡ Fun fact: Happy go lucky
 
 <!---
